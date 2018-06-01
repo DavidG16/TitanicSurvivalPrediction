@@ -1,3 +1,5 @@
 # TitanicSurvivalPrediction
- Predict survival Titanic survival rates based on gender, class, fare, if
-travelled with family or alone, name title, port of embarkation and age
+ Predict survival survival rates for the titanic based on gender, class, fare, if
+travelled with family or alone, name title, port of embarkation and age.
+
+I used a Decision Tree model.  The final accuracy Score is of 89.11%.
